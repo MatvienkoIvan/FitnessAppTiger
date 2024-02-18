@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="exercise">
+        <item>Relax|45|relax_happy.gif</item> <!-- pos 0 -->
+        <item>Приседания со штангой|x15|squats.gif</item><!-- pos 1 -->
+        <item>Разгибания ног|x20|leg_extensions.gif</item><!-- pos 2 -->
+        <item>Сгибания ног на тренажере|x15|leg_curls.gif</item><!-- pos 3 -->
+        <item>Подъемы на носки стоя|x30|standing_calf_raises.gif</item><!-- pos 4 -->
+        <item>Выпады |x24|lunges.gif</item><!-- pos 5 -->
+        <item>Гакк-приседания|x20|hack_squats.gif</item><!-- pos 6 -->
+        <item>Подъемы на носки сидя|x30|seated_calf_raises.gif</item><!-- pos 7 -->
+        <item>Болгарские сплит-приседания|x30|bulgarian_split_squats.gif</item><!-- pos 8 -->
+        <item>Жим ногами в тренажере|x30|leg_press_machine.gif</item><!-- pos 9 -->
+        <item>Подъемы на носки в тренажере|x30|calf_press_machine.gif</item><!-- pos 10 -->
+        <item>Сгибания рук со штангой|x15|barbell_bicep_curls.gif</item><!-- pos 11 -->
+        <item>Сгибания рук с гантелями(на каждую руку)|x12|dumbbell_bicep_curls.gif</item><!-- pos 12 -->
+        <item>Сгибания рук на нижнем блоке|x15|cable_bicep_curls.gif</item><!-- pos 13 -->
+        <item>Французский жим|x12|french_press.gif</item><!-- pos 14 -->
+        <item>Жим лежа узким хватом|x8|close_grip_bench_press.gif</item><!-- pos 15 -->
+        <item>Разгибания рук на верхнем блоке|x15|tricep_pushdown.gif</item><!-- pos 16 -->
+        <item>Разгибания рук с гантелями лежа|x20|dumbbell_tricep_extensions.gif</item><!-- pos 17 -->
+        <item>Отжимания на брусьях|xMax|dips.gif</item><!-- pos 18 -->
+        <item>Разгибания рук в наклоне|x12|tricep_kickbacks.gif</item><!-- pos 19 -->
+        <item>Жим гантелей из-за головы|x12|overhead_tricep_extensions.gif</item><!-- pos 20 -->
+        <item>Отжимания от пола|Max|push-ups.gif</item><!-- pos 21 -->
+        <item>Жим штанги лежа|x10|barbell_bench_press.gif</item><!-- pos 22 -->
+        <item>Жим гантелей лежа|x12|dumbbell_bench_press.gif</item><!-- pos 23 -->
+        <item>Разведение гантелей лежа|x15|dumbbell_flys.gif</item><!-- pos 24 -->
+        <item>Отжимания на брусьях|xMax|dips.gif</item><!-- pos 25 -->
+        <item>Жим гантелей на наклонной скамье|x12|incline_dumbbell_press.gif</item><!-- pos 26 -->
+        <item>Жим штанги на наклонной скамье|x12|incline_barbell_press.gif</item><!-- pos 27 -->
+        <item>Пуловеры с гантелью|x15|dumbbell_pullovers.gif</item><!-- pos 28 -->
+        <item>Сведение рук в тренажере|x12|chest_fly_machine.gif</item><!-- pos 29 -->
+        <item>Отжимания от пола|xMax|push-ups.gif</item><!-- pos 30 -->
+        <item>Жим штанги лежа на наклонной скамье головой вниз|x12|decline_barbell_press.gif</item><!-- pos 31 -->
+        <item>Подтягивания|xMax|pull-ups.gif</item><!-- pos 32 -->
+        <item>Тяга штанги в наклоне|x12|barbell_row.gif</item><!-- pos 33 -->
+        <item>Тяга гантели в наклоне (на каждую руку)|x10|dumbbell_row.gif</item><!-- pos 34 -->
+        <item>Тяга верхнего блока|x12|lat_pulldown.gif</item><!-- pos 35 -->
+        <item>Гиперэкстензия|x15|hyperextension.gif</item><!-- pos 36 -->
+        <item>Тяга штанги к подбородку|x10|upright_row.gif</item><!-- pos 37 -->
+        <item>Тяга нижнего блока|x12|seated_row.gif</item><!-- pos 38 -->
+        <item>Тяга Т-грифа|x8|t-bar_row.gif</item><!-- pos 39 -->
+        <item>Тяга верхнего блока узким хватом|x15|behind_the_neck_lat_pulldown.gif</item><!-- pos 40 -->
+        <item>Скручивания|x16|crunches.gif</item><!-- pos 41 -->
+        <item>Подъемы ног в висе|xMax|hanging_leg_raises.gif</item><!-- pos 42 -->
+        <item>Велосипед|x30|bicycle_crunches.gif</item><!-- pos 43 -->
+        <item>Русские скручивания|x16|russian_twists.gif</item><!-- pos 44 -->
+        <item>Боковые скручивания|x16|side_bends.gif</item><!-- pos 45 -->
+        <item>Обратные скручивания|x16|reverse_crunches.gif</item><!-- pos 46 -->
+        <item>Скручивания с роликом|x12|ab_roller.gif</item><!-- pos 47 -->
+        <item>Скручивания на фитболе|x15|ball_crunches.gif</item><!-- pos 48 -->
+        <item>Скручивания с поднятыми ногами|x10|feet-up_crunches.gif</item><!-- pos 49 -->
+        <item>Жим гантелей сидя|x12|shoulder_press.gif</item><!-- pos 50 -->
+        <item>Жим штанги сидя|x10|behind_the_neck_shoulder_press.gif</item><!-- pos 51 -->
+        <item>Разведение гантелей в стороны|x12|lateral_raise.gif</item><!-- pos 52 -->
+        <item>Подъем гантелей перед собой|x12|front_raise.gif</item><!-- pos 53 -->
+        <item>Подъем гантелей через стороны|x10|lateral_raise_with_medicine_ball.gif</item><!-- pos 54 -->
+        <item>Тяга штанги к подбородку|x10|upright_row.gif</item><!-- pos 55 -->
+        <item>Жим Арнольда|x12|arnold_press.gif</item><!-- pos 56 -->
+        <item>Подъем гантелей в стороны в наклоне|x12|lateral_raise_in_lunge_position.gif</item><!-- pos 57 -->
+        <item>Подъем гантелей перед собой в наклоне|x12|front_raise_in_lunge_position.gif</item><!-- pos 58 -->
+        <item>Разведение рук на нижнем блоке (на каждую руку)|x15|cable_lateral_raise.png</item><!-- pos 59 -->
+        <item>Relax|90|relax_happy.gif</item> <!-- pos 60 -->
+    </string-array>
+
+    <string-array name="day_exercise">
+        <item>2,60,1,0,1,0,1,60,5,0,5,0,5,60,6,0,6,0,6,60,3,0,3,0,3,60,10,0,10,0,10</item> <!-- Day 1 Lags  -->
+        <item>22,0,22,0,22,60,26,0,26,0,26,60,28,0,28,0,28,60,17,0,17,0,17,60,20,0,20,0,20,60,41,0,41,0,41,60,44,0,44,0,44</item> <!-- Day 2 chest + ARMS -->
+        <item>32,0,32,0,32,60,33,0,33,0,33,60,38,0,38,0,38,60,50,0,50,0,50,60,53,0,53,0,53,60,57,0,57,0,57,60,11,0,11,0,11,60,12,0,12,0,12,60</item> <!-- Day 3 Back + shoulders + arms -->
+<!--        <item></item> &lt;!&ndash; Day 4 Back + shoulders &ndash;&gt;-->
+
+
+    </string-array>
+
+    <string-array name="all_exercise">
+        <item>Relax|30|relax_happy.gif</item> <!-- pos 0 -->
+        <!-- LAGS EXERCISE -->
+        <item>Приседания со штангой|x15|squats.gif</item><!-- pos 1 -->
+        <item>Разгибания ног|x20|leg_extensions.gif</item><!-- pos 2 -->
+        <item>Сгибания ног на тренажере|x15|leg_curls.gif</item><!-- pos 3 -->
+        <item>Подъемы на носки стоя|x30|standing_calf_raises.gif</item><!-- pos 4 -->
+        <item>Выпады |x24|lunges.gif</item><!-- pos 5 -->
+        <item>Гакк-приседания|x20|hack_squats.gif</item><!-- pos 6 -->
+        <item>Подъемы на носки сидя|x30|seated_calf_raises.gif</item><!-- pos 7 -->
+        <item>Болгарские сплит-приседания|x30|bulgarian_split_squats.gif</item><!-- pos 8 -->
+        <item>Жим ногами в тренажере|x30|leg_press_machine.gif</item><!-- pos 9 -->
+        <item>Подъемы на носки в тренажере|x30|calf_press_machine.gif</item><!-- pos 10 -->
+        <!-- ARMS EXERCISE -->
+        <item>Сгибания рук со штангой|x15|barbell_bicep_curls.gif</item><!-- pos 11 -->
+        <item>Сгибания рук с гантелями(на каждую руку)|x12|dumbbell_bicep_curls.gif</item><!-- pos 12 -->
+        <item>Сгибания рук на нижнем блоке|x15|cable_bicep_curls.gif</item><!-- pos 13 -->
+        <item>Французский жим|x12|french_press.gif</item><!-- pos 14 -->
+        <item>Жим лежа узким хватом|x8|close_grip_bench_press.gif</item><!-- pos 15 -->
+        <item>Разгибания рук на верхнем блоке|x15|tricep_pushdown.gif</item><!-- pos 16 -->
+        <item>Разгибания рук с гантелями лежа|x20|dumbbell_tricep_extensions.gif</item><!-- pos 17 -->
+        <item>Отжимания на брусьях|xMax|dips.gif</item><!-- pos 18 -->
+        <item>Разгибания рук в наклоне|x12|tricep_kickbacks.gif</item><!-- pos 19 -->
+        <item>Жим гантелей из-за головы|x12|overhead_tricep_extensions.gif</item><!-- pos 20 -->
+        <item>Отжимания от пола|xMax|push-ups.gif</item><!-- pos 21 -->
+
+        <item>22,0,22,0,22,60,26,0,26,0,26,60,28,0,28,0,28,60,17,0,17,0,17,60,20,0,20,0,20,60,41,0,41,0,41,60,44,0,44,0,44</item> <!-- Day 2 chest + ARMS -->
+        <!-- CHEST EXERCISE -->
+        <item>Жим штанги лежа|x10|barbell_bench_press.gif</item><!-- pos 22 -->
+        <item>Жим гантелей лежа|x12|dumbbell_bench_press.gif</item><!-- pos 23 -->
+        <item>Разведение гантелей лежа|x15|dumbbell_flys.gif</item><!-- pos 24 -->
+        <item>Отжимания на брусьях|xMax|dips.gif</item><!-- pos 25 -->
+        <item>Жим гантелей на наклонной скамье|x12|incline_dumbbell_press.gif</item><!-- pos 26 -->
+        <item>Жим штанги на наклонной скамье|x12|incline_barbell_press.gif</item><!-- pos 27 -->
+        <item>Пуловеры с гантелью|x15|dumbbell_pullovers.gif</item><!-- pos 28 -->
+        <item>Сведение рук в тренажере|x12|chest_fly_machine.gif</item><!-- pos 29 -->
+        <item>Отжимания от пола|xMax|push-ups.gif</item><!-- pos 30 -->
+        <item>Жим штанги лежа на наклонной скамье головой вниз|x12|decline_barbell_press.gif</item><!-- pos 31 -->
+        <!-- BACK EXERCISE -->
+        <item>Подтягивания|xMax|pull-ups.gif</item><!-- pos 32 -->
+        <item>Тяга штанги в наклоне|x12|barbell_row.gif</item><!-- pos 33 -->
+        <item>Тяга гантели в наклоне (на каждую руку)|x10|dumbbell_row.gif</item><!-- pos 34 -->
+        <item>Тяга верхнего блока|x12|lat_pulldown.gif</item><!-- pos 35 -->
+        <item>Гиперэкстензия|x15|hyperextension.gif</item><!-- pos 36 -->
+        <item>Тяга штанги к подбородку|x10|upright_row.gif</item><!-- pos 37 -->
+        <item>Тяга нижнего блока|x12|seated_row.gif</item><!-- pos 38 -->
+        <item>Тяга Т-грифа|x8|t-bar_row.gif</item><!-- pos 39 -->
+        <item>Тяга верхнего блока узким хватом|x15|behind_the_neck_lat_pulldown.gif</item><!-- pos 40 -->
+
+
+        <!-- ABS EXERCISE -->
+        <item>Скручивания|x16|crunches.gif</item><!-- pos 41 -->
+        <item>Подъемы ног в висе|xMax|hanging_leg_raises.gif</item><!-- pos 42 -->
+        <item>Велосипед|x30|bicycle_crunches.gif</item><!-- pos 43 -->
+        <item>Русские скручивания|x16|russian_twists.gif</item><!-- pos 44 -->
+        <item>Боковые скручивания|x16|side_bends.gif</item><!-- pos 45 -->
+        <item>Обратные скручивания|x16|reverse_crunches.gif</item><!-- pos 46 -->
+        <item>Скручивания с роликом|x12|ab_roller.gif</item><!-- pos 47 -->
+        <item>Скручивания на фитболе|x15|ball_crunches.gif</item><!-- pos 48 -->
+        <item>Скручивания с поднятыми ногами|x10|feet-up_crunches.gif</item><!-- pos 49 -->
+        <!-- shoulders -->
+        <item>Жим гантелей сидя|x12|shoulder_press.gif</item><!-- pos 50 -->
+        <item>Жим штанги сидя|x10|behind_the_neck_shoulder_press.gif</item><!-- pos 51 -->
+        <item>Разведение гантелей в стороны|x12|lateral_raise.gif</item><!-- pos 52 -->
+        <item>Подъем гантелей перед собой|x12|front_raise.gif</item><!-- pos 53 -->
+        <item>Подъем гантелей через стороны|x10|lateral_raise_with_medicine_ball.gif</item><!-- pos 54 -->
+        <item>Тяга штанги к подбородку|x10|upright_row.gif</item><!-- pos 55 -->
+        <item>Жим Арнольда|x12|arnold_press.gif</item><!-- pos 56 -->
+        <item>Подъем гантелей в стороны в наклоне|x12|lateral_raise_in_lunge_position.gif</item><!-- pos 57 -->
+        <item>Подъем гантелей перед собой в наклоне|x12|front_raise_in_lunge_position.gif</item><!-- pos 58 -->
+        <item>Разведение рук на нижнем блоке (на каждую руку)|x15|cable_lateral_raise.png</item><!-- pos 59 -->
+        <item>Relax|90|relax_happy.gif</item> <!-- pos 60 -->
+    </string-array>
+
+
+</resources>

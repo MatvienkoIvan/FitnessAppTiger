@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">FitnesApp</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="slogan">На пути к совершенству</string>
+    <string name="progress">Прогресс</string>
+    <string name="day">День:</string>
+    <string name="days">Дни тренировок:</string>
+    <string name="exercise">Подходов: </string>
+    <string name="exercises">Упражнения: </string>
+    <string name="waiting_message">Старт через :</string>
+    <string name="Start">Старт</string>
+    <string name="next">Следующие</string>
+    <string name="done">Готово !</string>
+    <string name="done_day">Выполнено!</string>
+    <string name="b_done_day">Закончить</string>
+    <string name="get_ready">Приготовтесь!</string>
+    <string name="rest">Осталось: </string>
+    <string name="days_rest">дней</string>
+    <string name="reset">Сбросить</string>
+    <string name="Attention">Внимание!</string>
+    <string name="ok">OK</string>
+    <string name="back">Back</string>
+    <string name="reset_all_days">Вы действительно хотите сбросить все дни тренировок?</string>
+    <string name="reset_day">Вы Уверены, что хотите сбросить текущий день?</string>
+
+
+</resources>

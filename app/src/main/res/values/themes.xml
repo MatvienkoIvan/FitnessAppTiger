@@ -1,0 +1,23 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.FitnesApp" parent="Theme.Material3.DayNight.NoActionBar">
+
+        <item name="colorPrimary">#FFA726</item>
+        <item name="colorPrimaryVariant">@color/backgraund_item_orange200</item>
+        <item name="colorOnPrimary">@color/primary_black</item>
+        <item name="android:statusBarColor">@color/primary_orange</item>
+
+        <item name="windowActionBar">true</item>
+        <item name="windowNoTitle">false</item>
+        <item name="android:windowFullscreen">true</item>
+
+    </style>
+
+    <style name="Base.Theme.Splash" parent="Theme.Material3.DayNight.NoActionBar">
+        <item name="windowActionBar">false</item>
+        <item name="windowNoTitle">true</item>
+        <item name="android:windowFullscreen">true</item>
+    </style>
+
+    <style name="Theme.FitnesApp" parent="Base.Theme.FitnesApp" />
+</resources>
